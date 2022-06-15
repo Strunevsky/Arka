@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+
+  <title>Адаптивная верстка индивидуального шаблона сайта</title>
+</head>
+<body class="Back"> 
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Arka</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Переключатель навигации">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+ 
+  <div class="collapse navbar-collapse row lead1 " id="navbarSupportedContent">     
+        <h5 class="nav-link" href="#">START YOUR DESING <span class="sr-only">(текущая)</span><h5>
+        <h5 class="nav-link" href="#">ALL PRODUCTS</h5>
+        <h5 class="nav-link" href="#">INSPIRATION</h5>          
+        <h5 class="nav-link" href="#">ABOUT</h5>       
+  </div>
+  
+  <div class="lead2">
+        <h5 class="nav-link" href="#">ACCOUNT</h5>
+  </div>
+  
+  <div class="lead2">     
+        <img src="20.png" class="img1 d-block w-10">
+  </div>
+</nav>
+
+ <div class="jumb1 jumbotron">
+<div class="row">
+ <h1 class="display-4">Fast and easy custom</br> boxes your customers .</br> will love</h1>
+
+<div class="row lead3">
+<img src="1.png" class="lead d-block w-30">  
+</div>
+
+</div>
+<div class="lead2">
+ <p class="lead"> Fastest turnaround.Best prices instanly.</br>Dienline desing help available</p>
+ </div>
+ <div>
+<a class="btn btn-primary btn-lg rounted-pill" href="#" role="button">START YOUR DESING</a>   
+
+</div>   
+
+</div>
+
+</div>
+
+<div class="row lead1">
+<img src="Amazon.png" class="img1 d-block w-10">
+<img src="Spotyfy.png" class="img1 d-block w-10">
+<img src="Eco.png" class="img1 d-block w-10">
+</div>
+
+
+<div class="lead2">
+  <h2 class="display-4">Products you can customize</h2>
+ </div>
+ 
+ <div class="lead3">
+  <a class="btn btn-primary btn-lg rounted-pill" href="#" role="button">BROWSE ALL PRODUCTS</a>   
+</div>
+
+<div class="jumb jumbotron">
+<div class="row lead1">	 
+
+<div class="Back1">
+<img src="2.png" class="d-block w-5" alt="Custom Carton Boxes">
+<h2>Custom Carton Boxes</h2>
+<p> Create a clean brand</br>presetnation with this custom</br>carton box</p>
+</div>
+
+<div class="Back1">
+<img src="3.png" class="d-block w-5" alt="Custom Boxes">
+<h2>Custom Boxes</h2>
+<p>A stylish and strong</br>corrugated box</p>
+</div>
+
+<div class="Back1">
+<img src="4.png" class="d-block w-5" alt="Custom Poly Mallers">
+<h2>Custom Poly Materels</h2>
+<p>A fully custom high quality self</br>sealing poly mailer</p>
+</div>
+
+<div class="row lead1">
+
+<div class="Back1">
+<img src="5.png" class="d-block w-5" alt="Custom Tape">
+<h2>Custom Tape</h2>
+<p>Add personality to your</br>packeges with custom</br>stickers.</p>
+</div>
+</div>
+
+<div class="Back1">
+<img src="6.png" class="d-block w-5" alt="Custom Stikers">
+<h2>Custom Stikers</h2>
+<p>Create a clean brand </br>presetnation with this custom </p>
+</div>
+
+<div class="Back1">
+<img src="7.png" class="d-block w-5" alt="Custom Tissure Paper">
+<h2>Custom Tisssue Paper</h2>
+<p>The perfect addition to</br>branding your package<p>
+
+
+</div>	  
+</div>
+
+</div>
+
+<div class="lead1 row">
+	    <h2 class="display">Need unbranded stock items?<h2>
+	    <a class="btn3 btn-primary  btn-lg rounted-pill" href="#" role="button">SHOP STOCK</a>
+</div>
+	
+	</div>
+<div class="jumb2 jumbotron">
+<div class="row lead1">
+  <h1 class="display-4"> Fast and easy custom boxes your customers will love</h1>
+ </div>
+  <div class="row lead1">
+
+<div>  
+  <img src="8.png" class="d-block w-5" alt="Custom Boxes">
+  <h5>You Order<h5>
+  <p class="lead"> Desing and order boxes in a </br> few clicks</p>
+</div>
+
+<div>
+  <img src="9.png" class="d-block w-5" alt="Custom Boxes">
+  <h5>We Proof<h5>  
+  <p class="lead"> Approve your desing </br> before production</p>
+</div>
+  
+<div>
+  <img src="10.png" class="d-block w-5" alt="Custom Boxes">
+  <h5>We Print & Ship<h5>  
+  <p class="lead"> Your order gets printed </br>and shipped with tracking</p>
+</div>  
+
+</div>
+ <div class="row lead1">
+	    <a class="btn btn-primary btn-lg rounted-pill" href="#" role="button">START YOUR DESING</a>
+	  </div>
+</div>   
+	 
+
+
+<div class="row lead1"> 
+<h1 class="display-4"> The Arka advantage<h1> 
+</div> 
+<div class="row lead1"> 
+
+ <div>
+ <img src="11.png" class="d-block w-5" alt="Custom Boxes">
+ <h5>Eco-Friendly Material</h5>
+ <p class="lead">Order as little as 10,giving you the </br>lowest minimums in the industry</br>at the best Prices</p>
+ </div>
+ 
+ <div>
+<img src="12.png" class="d-block w-5" alt="Custom Boxes">
+ <h5>Full Outside Print</h5>
+ <p class="lead"> Desing what you want-no extra</br> cost! Prices inlude 100% exterior</br> print,change desing whenever!</p>
+ </div>
+
+ <div>
+<img src="13.png" class="d-block w-5" alt="Custom Boxes">
+<h5>Profing</h5>
+ <p class="lead">After you order,our internal designers</br> help make sure your desings are</br> 100% ready for print!</p>		
+ </div>
+</div>
+
+<div class="jumb3 row lead1 jumbotron">
+   <div>
+   
+<img src="14.png" class="d-block w-5" alt="Custom Boxes">	
+  <h5>Couldn't find a size you need?</h5>
+    <p class="lead">We'll work directly with you to create a fully </br>branded packaging system</p>
+    <a class=" btn2 btn-primary btn-lg rounted-pill" href="#" role="button">REQUEST A QUOTE</a>
+	</div>
+	<img src="polos.png" class="d-block w-5" alt="Custom Carton Boxes">
+	<div>
+	<img src="15.png" class="d-block w-5" alt="Custom Boxes">
+    <h5>Need a free dieline template?</h5>
+    <p class="lead">Let us know what size you need and we'll email an</br> Adode illustrator dieline to you within 3-4 business days.</p>
+    <a class=" btn2 btn-primary btn-lg rounted-pill" href="#" role="button">REQUEST DIELINE</a>
+   </div>
+</div>  
+
+ <div class="row lead1">
+ <h1 class="display-4 lead1"> Merchants love Arka</h1>
+ </div>
+ <div class="row lead1 Back1">
+ 
+<img src="Google1.png" class="d-block w-5" alt="Custom Boxes">
+<img src="Shopify.png" class="d-block w-5" alt="Custom Boxes">
+ </div>	 
+	 <div class="row lead1 Back1">
+<img src="1.jpg" class="d-block w-5" alt="Custom Carton Boxes">
+<img src="2.jpg" class="d-block w-5" alt="Custom Boxes">
+<img src="Otziv1.png" class="d-block w-5" alt="Custom Poly Mallers">
+     </div>
+
+<div class="row lead1 Back1">
+
+<img src="Otziv.png" class="d-block w-5" alt="Custom Poly Mallers">
+
+<img src="3.jpg" class="d-block w-5" alt="Custom Poly Mallers">
+
+<img src="5.jpg" class="d-block w-5" alt="Custom Tape">
+
+</div>
+
+<div class="row lead1 Back1">
+
+<img src="1.jpg" class="d-block w-5" alt="Custom Tape">
+<img src="6.jpg" class="d-block w-5" alt="Custom Stikers">
+<img src="Otziv1.png" class="d-block w-5" alt="Custom Poly Mallers">
+
+</div>	
+	  <div class="row lead1 Back1">
+	 <h1 class="display-4">Let's get to it</h1>
+	  </div>
+	  <div class="row lead1">
+	   <button type="button" class="btn btn-primary">START YOUR DESING</button>
+	   <button type="button" class="btn3 btn-primary">BROWSE ALL PRODUCTS</button>
+	  </div>
+	 
+<div class="jumbotron">
+<div class="row lead1">
+
+<ul class="navbar-nav1 mr-auto lead1">
+
+        <a class="nav-link" href="#">Custom Desing <span class="sr-only">(текущая)</span></a>
+        <a class="nav-link" href="#">All Products</a>
+        <a class="nav-link" href="#">Inspiration</a>
+        <a class="nav-link" href="#">Sustainability</a>
+        <a class="nav-link" href="#">Affiliate Program</a> 
+</ul>
+
+<ul class="navbar-nav2 mr-auto">
+
+   	 <a class="nav-link" href="#">Adout Us<span class="sr-only">(текущая)</span></a>
+        <a class="nav-link" href="#">Blog</a>
+        <a class="nav-link" href="#">Partners</a>
+        <a class="nav-link" href="#">Contact Us</a>
+        <a class="nav-link" href="#">FAQ</a>
+        <a class="nav-link" href="#">Terms & Conditions</a>
+</ul>
+
+<ul class="navbar-nav3 mr-auto">
+
+
+	   <a class="nav-link" href="#">Shopify App<span class="sr-only">(текущая)</span></a>
+        <a class="nav-link" href="#">14 Day Free Shopify Trial</a>
+        <a class="nav-link" href="#">BigCommerce</a>
+		<div class="row">
+       <img src="16.png" class="d-block w-5" alt="Custom Tape">
+       <img src="17.png" class="d-block w-5" alt="Custom Stikers"> 
+       <img src="18.png" class="d-block w-5" alt="Custom Tissure Paper">
+</div>	
+</ul>
+
+<ul class="navbar-nav4 mr-auto">
+<form class="form-inline my-2 my-lg-0">
+      <a class="nav-link">Get exclusive offers and tips</a>
+      <input class="form-control mr-sm-2" type="search" placeholder="Your email" aria-label="Поиск">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Join instanly </button>
+    </form> 
+</ul>
+
+</div>
+</div>
+	 
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+
+</body>
+</html>
